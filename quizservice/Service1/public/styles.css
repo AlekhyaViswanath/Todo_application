@@ -1,0 +1,43 @@
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #dff3e3;
+    font-size: 1.3rem;
+}
+header {
+	background-color: #000000e5;
+	color: #f0cc2d;
+	padding-top: 30px;
+	min-height: 70px;
+	border-bottom: #e6d417 3px solid;
+}
+
+header #branding{
+	float:left;
+}
+ /* header nav{
+ 	float:right;
+ 	margin-top: 10px;
+ } */
+
+ /* #showcase{
+ 	min-height: 800px;
+  margin-left: 150px;
+  margin-right: 100px;
+  width: 100%;
+} */
+
+#Play{
+	padding: 100px;
+	color:#171714;
+	background: #cf8dac;
+}
+
+#Play input{
+	padding: 4px;
+	height: 25px;
+	width: 250px;
+}
+
